@@ -10,6 +10,6 @@ package Practico2.roedor;
  */
 public class Hamster extends Raton {
     public Hamster(){
-        super.setTipo("Mascota", 180);
+        super.setTipo("Mascota", 185);
     }
 }
